@@ -1,4 +1,4 @@
-# Portfolio Website (College Edition)
+# Portfolio Website 
 
 Single-page personal portfolio site for **Saksham Agrawal** — final-year CSE (AI/ML) student and aspiring software engineer, built for a college/academic profile context.
 
