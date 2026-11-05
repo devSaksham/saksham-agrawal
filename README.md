@@ -1,31 +1,18 @@
-# Portfolio Website 
+# saksham-agrawal
 
-Single-page personal portfolio site for **Saksham Agrawal** — final-year CSE (AI/ML) student and aspiring software engineer, built for a college/academic profile context.
+An earlier, dark-themed version of my portfolio: deep navy background, cyan/amber/violet accents, an animated grid backdrop, and Inter + JetBrains Mono type.
 
-## About
+**Live:** https://devsaksham.github.io/saksham-agrawal/
 
-A self-contained, single-file (`index.html`) portfolio introducing Saksham's background in full-stack AI systems: FastAPI backends, deep-learning models, and LLM/RAG pipelines. No build step, no dependencies — just open `index.html` in a browser.
+My current site is [sakshamagrawal.me](https://sakshamagrawal.me) ([source](https://github.com/devSaksham/portfolio_website)).
 
-## Highlights
-
-- Dark, terminal-inspired theme (deep navy background, cyan/amber/violet accents, monospace + sans-serif type pairing)
-- Fully responsive, single HTML file with all CSS inlined
-- Animated grid/glow background
-- SEO-friendly meta description and a custom SVG favicon (no external image assets required)
-
-## Tech
-
-Plain HTML5 + CSS3 (no frameworks, no JavaScript build tooling). Fonts loaded from Google Fonts (Inter + JetBrains Mono).
-
-## Running locally
+## Run locally
 
 ```bash
-git clone https://github.com/devSaksham/portfolio_website_college.git
-cd portfolio_website_college
+git clone https://github.com/devSaksham/saksham-agrawal.git
+cd saksham-agrawal
 ```
 
-Then just open `index.html` in your browser — no server or build step required.
+Open `index.html` in a browser. It's one self-contained file with inlined CSS and an SVG favicon; there's no build step.
 
-## Related
-
-See [`portfolio_website`](https://github.com/devSaksham/portfolio_website) for the primary/production version of this site, deployed via Netlify.
+Deployed with GitHub Pages from `main`.
